@@ -1,2 +1,2 @@
-# wp-fullcalendar-excerpt-add-on
-WP FullCalendar Excerpt Add-On
+# WP FullCalendar Excerpt Add-On
+This is an Add-On for the [_WP FullCalendar_](https://wordpress.org/plugins/wp-fullcalendar/) plugin. It adds the ability to display an excerpt - instead of the full content - for the event description in the event list.
